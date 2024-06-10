@@ -1,0 +1,2 @@
+/javaimage/imgs
+$pwd/javaimage/imgs
